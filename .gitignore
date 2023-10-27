@@ -160,6 +160,5 @@ cython_debug/
 #.idea/
 
 # New stuff
-.bag
-.csv
-.png
+*.bag
+*.csv
